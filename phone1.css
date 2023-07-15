@@ -1,0 +1,18 @@
+#navbar{
+    flex-direction: column;
+    width: 100vw;
+}
+#navbar ul li a{
+   margin: auto;
+}
+
+#section1 img{
+    display: none;
+}
+.navbtn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.section3 h2{
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+/* .navbar{
+flex-direction: column;
+} */
+#navbar img{
+    /* justify-content: center; */
+    
+}
+#section1{
+flex-direction: column;
+}
+#section1 img{
+    display: block;
+    margin: auto;
+}
+.content1{
+    flex-direction: column;
+}
+#section2{
+    margin: auto;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.box1{
+    flex-wrap: wrap;
+   
+}
+.section3{
+    height: fit-content;
+
+}
+.divlast{
+    flex-wrap: wrap;
+}

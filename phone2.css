@@ -1,0 +1,12 @@
+#navbar ul{
+    display: none;
+}
+#navbar{
+    flex-direction: row;
+}
+.navbtn{
+    display: none;
+}
+#checkbutton{
+    display: block;
+}
